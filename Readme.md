@@ -14,13 +14,6 @@ The application works in three steps:
 
 The result is a concise summary that preserves important facts, names, dates, and figures while avoiding unsupported claims.
 
-## Features
-
-- Search for any topic using live web results
-- Retrieve the latest news from Tavily
-- Summarize results using Google Generative AI
-- Clean and simple Streamlit interface
-- Command-line version for quick terminal usage
 
 ## Tech Stack
 
